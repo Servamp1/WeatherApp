@@ -1,0 +1,6 @@
+<resources>
+<style name="Theme.WeatherApp" parent="Theme.AppCompat.Light.NoActionBar">
+<item name="colorPrimary">@color/blue</item><item name="colorPrimaryDark">@color/sky</item><item name="colorAccent">@color/blue</item><item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item><item name="android:statusBarColor">@color/sky</item><item name="android:navigationBarColor">@color/ink</item><item name="android:windowBackground">@color/sky</item><item name="android:colorBackground">@color/sky</item>
+</style>
+<style name="Body"><item name="android:textColor">@color/ink</item><item name="android:textSize">18sp</item></style>
+</resources>

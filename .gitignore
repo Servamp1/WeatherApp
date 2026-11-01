@@ -1,0 +1,23 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+*.keystore
+*.hprof
+captures/
+.DS_Store
+
+# Local artifacts and temporary files
+*.apk
+*.aab
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+Thumbs.db
+.externalNativeBuild/
+.cxx/
