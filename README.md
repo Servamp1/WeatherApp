@@ -24,4 +24,4 @@ Kotlin 2.2.21, XML Views, ConstraintLayout, AppCompatActivity, Intent, SharedPre
 
 [Open-Meteo](https://open-meteo.com/) — бесплатный endpoint без ключа для некоммерческого учебного использования. [Документация](https://open-meteo.com/en/docs), [условия](https://open-meteo.com/en/terms), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Текущая погода — модельная оценка, а не прямое измерение станции. Осадки относятся к предшествующему интервалу current.interval, а не к суткам. Координаты центров городов проверены через [Open-Meteo Geocoding / GeoNames](https://open-meteo.com/en/docs/geocoding-api).
 
-GitHub-публикация не выполнялась. По просьбе пользователя Git-авторство и коммиты оставлены для самостоятельной настройки; создан отдельный пустой репозиторий .git.
+Исходный код опубликован в публичном репозитории [Servamp1/WeatherApp](https://github.com/Servamp1/WeatherApp). Основная ветка — main.
